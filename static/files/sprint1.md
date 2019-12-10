@@ -1,8 +1,6 @@
-User Journeys
-<----------
+#User Journeys
 
-Wireframes
-<----------
-<img src="static/wireframe1.jpg">
-<img src="static/wireframe2.jpg">
-<img src="static/wireframe3.jpg">
+#Wireframes
+![wireframe 1](static/wireframe1.jpg)
+![wireframe 2](static/wireframe2.jpg)
+![wireframe 3](static/wireframe3.jpg)
